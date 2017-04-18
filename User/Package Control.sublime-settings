@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better Completion",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"MarkdownEditing",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint"
+	]
+}
